@@ -1,16 +1,10 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+    "data":[
+    {"1":{"name":"سالن چند منظوره بهزیستی", "img":"pic/1.jpg" , "price":95000 , "star":4 }},
+    {"2":{"name":"چمن مصنوعی پونک", "img":"pic/2.jpg" , "price":85000 , "star":3 }},
+    {"3":{"name":"چمن مصنوعی کوهستان", "img":"pic/3.jpg" , "price":15000 , "star":5 }}
+    ],
+    "profile": {
+        "name": "typicode"
+    }    
 }
-
-
-
-
-
